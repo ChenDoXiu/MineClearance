@@ -85,7 +85,7 @@ easy.onclick = function (){
 medium.onclick = function(){
 	game.width = 16;
 	game.height = 16;
-	game.mine = 70;
+	game.mine = 35;
 	title.innerText="Mine Clearance-Medium";
 	state.click();
 	box2.style.display ="none";
